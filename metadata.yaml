@@ -1,0 +1,31 @@
+_repo: A-Spanish-AnthologyA-Collection-of-Lyrics-from-the-Thirteenth-Century-Down-to-the-Present-Tim__41810
+_version: 0.1.0
+alternative_title: "A Spanish Anthology \r\nA Collection of Lyrics from the 13th Century\
+  \ Down to the Present Time"
+covers:
+- cover_type: archival
+  image_path: 41810-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Ford, J. D. M. (Jeremiah Denis Matthias)
+    alias: Ford, Jeremiah Denis Matthias
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '41380'
+    url: http://www.gutenberg.org/2009/agents/41380
+description: ''
+gutenberg_issued: '2013-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41810'
+  lccn: 01025581
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish poetry'
+- !lcc 'PQ'
+title: "A Spanish Anthology \r\nA Collection of Lyrics from the Thirteenth Century\
+  \ Down to the Present Time"
+url: http://www.gutenberg.org/ebooks/41810
