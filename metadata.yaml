@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41380'
     url: http://www.gutenberg.org/2009/agents/41380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41810#A-Spanish-AnthologyA-Collection-of-Lyrics-from-the-Thirteenth-Century-Down-to-the-Present-Tim_
 gutenberg_issued: '2013-01-10'
 gutenberg_type: Text
 identifiers:
